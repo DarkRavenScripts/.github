@@ -17,7 +17,7 @@
 |---|---|---|---|
 | **DRS_Watchlist** | ✅ Available | Player surveillance & flagging system for server admins | [Buy →](https://darkraven-scripts.tebex.io/package/player-watchlist) |
 | **DRS_Blackmarket** | ✅ Available | Underground item trading & black market economy | [Buy →](https://darkraven-scripts.tebex.io/package/Blackmarket) |
-| **DRS_Diceroll** | ✅ Available | Luck-based gambling interactions for RP servers | [Get →]([https://darkraven-scripts.tebex.io/package/diceroll](https://github.com/DarkRavenScripts/DRS_Diceroll)) |
+| **DRS_Diceroll** | ✅ Available | Luck-based gambling interactions for RP servers | [Get →](https://github.com/DarkRavenScripts/DRS_Diceroll) |
 | **DRS_Rentals** | 🔧 In Dev | Vehicle & property rental system | Coming Soon |
 
 ---
