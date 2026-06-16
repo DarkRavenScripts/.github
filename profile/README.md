@@ -27,13 +27,7 @@
 |---|---|---|
 | *Untitled Mod* | 🔧 In Dev | Name & details to be announced |
 
----
 
-## 📦 Browse the Store
-
-> All scripts are available on our Tebex storefront. Custom commissions open — reach out via Discord.
-
-[![Store](https://img.shields.io/badge/darkraven--scripts.tebex.io-Browse%20All%20Scripts-7C3AED?style=flat-square&logo=shopify&logoColor=white)](https://darkraven-scripts.tebex.io)
 
 ---
 
