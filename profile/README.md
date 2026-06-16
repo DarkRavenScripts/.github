@@ -3,7 +3,6 @@
 # 🪶 DarkRavenScripts
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
-[![Tebex](https://img.shields.io/badge/Tebex-Visit%20Store-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)](https://darkraven-scripts.tebex.io)
 
 *Custom FiveM & Minecraft mods — built for quality roleplay servers.*
 
