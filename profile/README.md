@@ -26,13 +26,3 @@
 | Mod | Status | Description |
 |---|---|---|
 | *Untitled Mod* | 🔧 In Dev | Name & details to be announced |
-
-
-
----
-
-<div align="center">
-
-*QBX / QBCore compatible · FiveM server-ready · Actively maintained*
-
-</div>
