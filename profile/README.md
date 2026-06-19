@@ -20,6 +20,7 @@
 | **DRS_Bugreporter** | 🔧 Updating | An in-game /bug reporting system. Sends to Discord via webhooks. | Coming Soon |
 | **DRS_AFK** | 🔧 Updating | An afk script that will kick players after x time if x players are online. | Coming Soon |
 | **DRS_Rentals** | 🔧 In Dev | Vehicle & property rental system | Coming Soon |
+| **DRS_Pharmacy** | 🔧 In Dev | Enables painkillers item to heal overtime | Coming Soon |
 
 ---
 
